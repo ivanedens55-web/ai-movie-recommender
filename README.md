@@ -149,3 +149,7 @@ Recommendations come from the model's training knowledge, not a live movie datab
 - Let users regenerate a single recommendation or ask for "more like this one"
 - Add unit tests for the parsing and validation functions
 - Deploy to Streamlit Community Cloud
+
+## License
+
+MIT — see [LICENSE](LICENSE).
