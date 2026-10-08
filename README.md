@@ -1,7 +1,4 @@
 # 🎬 AI Movie Recommender
-<img width="2556" height="1034" alt="image" src="https://github.com/user-attachments/assets/b9e1be1b-b20e-41e9-84ef-1fc06b824c55" />
-<img width="2560" height="1218" alt="image" src="https://github.com/user-attachments/assets/d581bb76-aabf-42d4-9b04-0499c60da9a8" />
-
 
 A small Streamlit web app that turns a plain-English description of what you feel like watching into a short list of movie recommendations, each with a reason it fits and a match score. It is powered by the Google Gemini API (free tier).
 
@@ -31,7 +28,10 @@ The project is intentionally simple: two Python files, three dependencies, no da
 > **Why you'll like it:** Explains which parts of your request this movie matches.
 > **Match:** 92%
 
-Actual recommendations vary from run to run. Add a screenshot of your own run here (for example `docs/screenshot.png`) when you publish.
+Actual recommendations vary from run to run.
+
+<img width="2556" height="1034" alt="image" src="https://github.com/user-attachments/assets/b9e1be1b-b20e-41e9-84ef-1fc06b824c55" />
+<img width="2560" height="1218" alt="image" src="https://github.com/user-attachments/assets/d581bb76-aabf-42d4-9b04-0499c60da9a8" />
 
 ## Technologies used
 
